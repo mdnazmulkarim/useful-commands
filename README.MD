@@ -24,3 +24,11 @@
 - sed
 - grep
 - $1
+- wget
+- curl with options
+
+### Maven commands
+
+### Gradle commands
+
+### 
