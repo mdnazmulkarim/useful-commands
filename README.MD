@@ -29,6 +29,18 @@
 
 ### Maven commands
 
+
+| Title                                   | Command                                                                                                                                                                                          |
+|-----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Command for quick java project creation | mvn archetype:generate<br/> -DgroupId=com.mycompany.app <br/>-DartifactId=my-app <br/>-DarchetypeArtifactId=maven-archetype-quickstart <br/>-DarchetypeVersion=1.5 <br/>-DinteractiveMode=false  |
+ | maven wrapper creation                  |mvn wrapper:wrapper|
 ### Gradle commands
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
 
 ### 
