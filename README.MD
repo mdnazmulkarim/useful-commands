@@ -1,5 +1,14 @@
 ## List of useful commands
 
+**Cheet sheet links**
+- markdown : https://www.markdownguide.org/cheat-sheet/
+- docker : chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://docs.docker.com/get-started/docker_cheatsheet.pdf
+- 
+
+### Mac
+- Untar:
+- tar -xzvf myfile.tar.gz
+
 ### Git
 - git stash list
 - git stash "verbose"  : (when needed)

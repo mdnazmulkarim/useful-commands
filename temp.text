@@ -1,0 +1,38 @@
+Acted as release manager for Clinical Reasoning Modules.
+
+Links and note for Clinical Quality framework clinical reasoning artifacts:
+
+Clinical Reasoning 3.0.0 Preview 9:
+https://github.com/cqframework/clinical-reasoning/releases/tag/v3.0.0.PRE-9
+
+Clinical Reasoning 3.0.0 Preview 8:
+https://github.com/cqframework/clinical-reasoning/releases/tag/v3.0.0.PRE-8
+
+Clinical Reasoning 3.0.0 Preview 7:
+https://github.com/cqframework/clinical-reasoning/releases/tag/v3.0.0.PRE-7
+Clinical Reasoning 3.0.0 Preview 2:
+
+https://github.com/cqframework/clinical-reasoning/releases/tag/v3.0.0.PRE-2
+
+
+CQL translator feature release:
+Version 2.7.0
+https://github.com/cqframework/clinical_quality_language/releases/tag/v2.7.0
+
+
+Links to the list of commits and closed issues into different repositories of cqframework.
+
+https://github.com/cqframework/clinical-reasoning/commits/master/?author=mdnazmulkarim
+
+
+https://github.com/cqframework/clinical-reasoning/commits/master/?author=mdnazmulkarim&after=c2cfd647802d1b901b122ceaedb5675baf02157a+34
+https://github.com/cqframework/cqf-tooling/commits/master/?author=mdnazmulkarim
+https://github.com/cqframework/clinical_quality_language/commits/master/?author=mdnazmulkarim
+https://github.com/cqframework/clinical_quality_language/commits/master/?author=mdnazmulkarim&after=35668e9147c761b149608806c043bb27235d9f8b+34
+https://github.com/cqframework/clinical_quality_language/commits/master/?author=mdnazmulkarim&after=35668e9147c761b149608806c043bb27235d9f8b+69
+https://github.com/cqframework/clinical_quality_language/issues?q=is%3Aissue+assignee%3Amdnazmulkarim+is%3Aclosed
+https://github.com/cqframework/clinical-reasoning/issues?q=is%3Aissue+is%3Aclosed+assignee%3Amdnazmulkarim
+
+
+Release contributions:
+https://github.com/cqframework/clinical-reasoning/releases/tag/v3.0.0
